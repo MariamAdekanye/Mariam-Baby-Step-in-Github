@@ -5,6 +5,9 @@ This is a practice file i came across online  to practice my excel cleaning and 
 
 --------
 # Project Objective: Problem Statement
+The purpose of this dataset is to do an analysis exploring the financial dataset to obtain some insights from it
+
+## Project Objectives
 The problems to be solved are:
 * The segment that brings in the most profit
 * Top 10 and Bottom countries performance in terms of sales and profit
@@ -16,13 +19,13 @@ The problems to be solved are:
 
 --------------
 # Data Sourcing
-The data was gotten from @oyinbooke github page
+The data was gotten from @oyinbooke github page. Here is the link to the dataset
 It contains 1 sheet of 16 columns and 701 rows
 
 
 -------------
 # Data Transformation
-Data was originally found clean from the source
+Data was originally found clean from the source and imported into excel
 
 # Data Analysis and Visuals
 
