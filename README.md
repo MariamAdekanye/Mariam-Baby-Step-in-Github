@@ -28,6 +28,7 @@ It contains 1 sheet of 16 columns and 701 rows
 Data was originally found clean from the source and imported into excel
 
 # Data Analysis and Visuals
+I went over to office.com in order to access sharepoint. Accessed my sharepoint. I clicked on list in order to take me to where i can import my excel file
 
 
 
