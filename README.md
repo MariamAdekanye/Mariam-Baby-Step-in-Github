@@ -31,6 +31,7 @@ Data was originally found clean from the source and imported into excel
 I went over to office.com in order to access sharepoint. Accessed my sharepoint. I clicked on create list in order to take me to where i can import my excel file
 
 ![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(6).png)
+-----------------------------------
 
 
 * I imported my excel file and renamed it as financial
@@ -39,22 +40,22 @@ I went over to office.com in order to access sharepoint. Accessed my sharepoint.
 
 * After uploading my file succesfully, it tookme back to sharepoint where i intergrate the financial data into power bi service for visualization
 ![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(8).png)
-
+---------------------------------------------------------------
 
 
 * First visualization done by powerbi service
 ![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(9).png)
 
-
+-------------------------------------------------------
 
 * Second visualization done on powerbi service by editing 
 ![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(10).png)
 
-
+------------------------------------------------------
 
 * Third visualization 
 ![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(12).png)
------------
+-----------------------------------------
 
 # Findings 
 * The government sector brings in the most profit of 11.4 million while the entreprise sector being the least brings in a loss of -0.6 million
@@ -63,7 +64,7 @@ I went over to office.com in order to access sharepoint. Accessed my sharepoint.
 * Product Paseo made the most sales and has the most unit sold in terms of product hence it is the most profitable product
 * Canada has the most sold product in terms of unit
 * Sales are at the highest in october
-
+---------------------------------------------------
 # Recommendation
 * More attention should be paid to the entreprise section in order to find ways of minimalising the loss and making profit
 * United states needs to be investigated on why they make the most sales but the are not bringing in the most profit, price of goods could be increased to generate more profit.
