@@ -1,6 +1,6 @@
 # Project name: CREATING POWER BI DASHBOARD FROM SHAREPOINT LIST
 ### Introduction
-This is a practice file i came across online  to practice my excel cleaning and transformation skills. Also perform a little bit of visualization on the dataset
+This is a practice file shared in the #30daysoflearning to practice creating powerbi dashboard from sharepoint list
 
 
 --------
@@ -29,7 +29,16 @@ Data was originally found clean from the source and imported into excel
 
 # Data Analysis and Visuals
 I went over to office.com in order to access sharepoint. Accessed my sharepoint. I clicked on list in order to take me to where i can import my excel file
+![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(6).png)
 
+
+![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(7).png)
+
+![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(8).png)
+
+![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(9).png)
+
+![alt text](https://github.com/MariamAdekanye/Mariam-Baby-Step-in-Github/blob/main/2022-07-22%20(10).png)
 
 
 
